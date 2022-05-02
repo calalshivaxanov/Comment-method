@@ -1,0 +1,41 @@
+.form
+{
+    padding: 7px;
+    background: #ddd;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 3px;
+}
+
+.form span
+{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form input
+{
+    padding: 5px;
+    width: 30%;
+}
+
+.form textarea
+{
+    width: 30%;
+}
+
+.list
+{
+    padding: 10px;
+    background: cadetblue;
+    margin-bottom: 2px;
+}
+
+.list span
+{
+    font-weight: 700;
+}
+
+.list p
+{
+    padding: 3px;
+}
